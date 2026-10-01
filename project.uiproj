@@ -1,0 +1,6 @@
+{
+  "Name": "AI HealthCamp Registration",
+  "ProjectType": "Process",
+  "Description": "AI HealthCamp Registration",
+  "MainFile": "Main.xaml"
+}
